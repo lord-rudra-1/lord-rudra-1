@@ -4,7 +4,7 @@
 
 💻 Programming Languages: C, C++, MATLAB
 
-📱 Currently learning App Development
+📱 Currently learning: JavaScript
 
 👨‍💻 Explore my projects at lord-rudra-1
 
