@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I'm currently working on **Backend Development**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lord-rudra-1)
 - 🌱 Currently learning new backend technologies
 - 💬 Ask me about Python, C++, or backend stuff
@@ -41,11 +41,11 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-rudra-1&show_icons=true&locale=en&theme=radical" alt="lord-rudra-1" />
 </p>
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lord-rudra-1&theme=radical" alt="lord-rudra-1" />
-</p> -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-rudra-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="lord-rudra-1" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=lord-rudra-1&theme=radical" alt="lord-rudra-1" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-rudra-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="lord-rudra-1" />
 </p>
 
 ---
