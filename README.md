@@ -15,6 +15,7 @@
 - 🌱 Currently learning new backend technologies
 - 💬 Ask me about Python, C++, or backend stuff
 - 📫 Reach me at **rudraraj12345672@gmail.com**
+- 🔭 [My Devfolio](https://rudra-portfolio-one.vercel.app/)
 
 ---
 
