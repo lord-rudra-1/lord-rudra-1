@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lord-rudra-1" target="_blank"><img src="./assets/logo.png" alt="Logo" width="80"/></a>
-</p>
-
-<p align="center">
   <b>Studying at IIIT Vadodara ICD | Backend Developer | Tech Enthusiast</b>
 </p>
 
@@ -62,12 +58,4 @@
   <a href="https://twitter.com/Lord_Rudra_1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-<!--
-You can add more sections like Projects, Blogs, etc. below if you want.
--->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lord-rudra-1&theme=radical" alt="lord-rudra-1" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-rudra-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="lord-rudra-1" />
 </p>
