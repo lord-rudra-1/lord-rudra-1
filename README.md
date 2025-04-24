@@ -41,9 +41,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-rudra-1&show_icons=true&locale=en&theme=radical" alt="lord-rudra-1" />
 </p>
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lord-rudra-1&theme=radical" alt="lord-rudra-1" />
-</p>
+</p> -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-rudra-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="lord-rudra-1" />
 </p>
