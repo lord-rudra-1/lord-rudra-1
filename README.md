@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Studying at IIIT Vadodara ICD | Backend Developer | Tech Enthusiast</b>
+  <b>Studying at IIIT Vadodara | Machine Learning | Computer Vision | Tech Enthusiast</b>
 </p>
 
 ---
