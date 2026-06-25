@@ -10,10 +10,10 @@
 
 ---
 
-- 🔭 I'm currently working on **Backend Development**
+- 🔭 I'm currently working on **Computer Vision / ML**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/lord-rudra-1)
-- 🌱 Currently learning new backend technologies
-- 💬 Ask me about Python, C++, or backend stuff
+- 🌱 Currently learning new Image Processing Operations
+- 💬 Ask me about Python, C++, or Image Denoising
 - 📫 Reach me at **rudraraj12345672@gmail.com**
 - 🔭 [My Devfolio](https://rudra-portfolio-one.vercel.app/)
 
