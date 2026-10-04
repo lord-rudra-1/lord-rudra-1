@@ -38,19 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-rudra-1&show_icons=true&locale=en&theme=radical" alt="lord-rudra-1" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=lord-rudra-1&theme=radical" alt="lord-rudra-1" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-rudra-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="lord-rudra-1" />
-</p>
-
----
-
 ## 🌐 Connect with me
 <p>
   <a href="mailto:rudraraj12345672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
