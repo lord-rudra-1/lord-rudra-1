@@ -5,45 +5,87 @@
 </p>
 
 <p align="center">
-  <b>Studying at IIIT Vadodara | Machine Learning | Computer Vision | Tech Enthusiast</b>
+  <b>Computer Science Student @ IIIT Vadodara | AI & ML Engineer | Software Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://rudra-portfolio-one.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1Et1lMDn9FUSOYDwFllK8Ub7gOrIZLRZL/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:rudraraj12345672@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/rudra-monas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
-- 🔭 I'm currently working on **Computer Vision / ML**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/lord-rudra-1)
-- 🌱 Currently learning new Image Processing Operations
-- 💬 Ask me about Python, C++, or Image Denoising
-- 📫 Reach me at **rudraraj12345672@gmail.com**
-- 🔭 [My Devfolio](https://rudra-portfolio-one.vercel.app/)
+### 🚀 About Me
+I'm a passionate **Computer Science and Engineering (B.Tech)** student at **IIIT Vadodara** specializing in **Artificial Intelligence, Machine Learning, and Software Engineering**. I thrive on architecting complex data pipelines, developing state-of-the-art machine learning models, and building scalable software systems that solve real-world technical challenges.
 
 ---
 
-## 🚀 Languages and Tools
+### 💼 Experience & Achievements
+- 🔬 **SURGE Research Intern @ IIT Kanpur (May 2026 - Present):** Designed a novel zero-shot denoising method for microscopic images targeting Gaussian and Poisson noise, outperforming state-of-the-art models on FMD datasets using PyTorch/CUDA.
+- 👨‍🏫 **Teaching Assistant @ IIIT Vadodara (2026 - Present):** Assisting laboratory sessions and conducting tutorials for both **Design and Analysis of Algorithms** and **Data Structures**, helping over 180 students with complex debugging and complexity analysis in C/C++.
+- 🚀 **Product Innovation Intern @ InventX Accelerator (May 2025 - Jul 2025):** Designed vibration-damping hardware using signal processing and Fourier Transform analysis.
+- 🏆 **Achievements:** 
+  - Maintained a **CPI of 8.98/10.0** (Top 5% of the class).
+  - Secured **AIR 6271** in GATE 2026 (Computer Science).
+  - NPTEL Machine Learning top 5% cohort.
+
+---
+
+### 🛠️ Technical Skills
+
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+* **Core CS**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOP
+* **ML & AI**: Computer Vision, Image Processing, Federated Learning, Deep Learning, Hybrid RAG
+* **Tools**: Linux, MATLAB, Streamlit, REST APIs
 
 ---
 
-## 🌐 Connect with me
-<p>
-  <a href="mailto:rudraraj12345672@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/rudra-monas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/rudra_monas_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/Lord_Rudra_1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+### 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/lord-rudra-1/Zero-Touch-NWDAF-5G">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lord-rudra-1&repo=Zero-Touch-NWDAF-5G&theme=radical" />
+  </a>
+  <a href="https://github.com/lord-rudra-1/Adversarial-Resilient-Hybrid-RAG-for-Multi-Domain-Support">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lord-rudra-1&repo=Adversarial-Resilient-Hybrid-RAG-for-Multi-Domain-Support&theme=radical" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/lord-rudra-1/FEDSEG-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lord-rudra-1&repo=FEDSEG-Application&theme=radical" />
+  </a>
+  <a href="https://github.com/lord-rudra-1/PetStop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lord-rudra-1&repo=PetStop&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lord-rudra-1/Custom-CLI-SecureCLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lord-rudra-1&repo=Custom-CLI-SecureCLI&theme=radical" />
+  </a>
+  <a href="https://github.com/lord-rudra-1/Image-Processing-Experimentation-Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lord-rudra-1&repo=Image-Processing-Experimentation-Lab&theme=radical" />
+  </a>
 </p>
