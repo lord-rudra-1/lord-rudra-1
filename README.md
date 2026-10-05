@@ -12,7 +12,7 @@
   <a href="https://rudra-portfolio-one.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Et1lMDn9FUSOYDwFllK8Ub7gOrIZLRZL/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1h-uN7mpWfYzR8FPZH4yQX_HoQtg3W-hA/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
   <a href="mailto:rudraraj12345672@gmail.com">
