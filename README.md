@@ -31,7 +31,7 @@ I'm a passionate **Computer Science and Engineering (B.Tech)** student at **IIIT
 ---
 
 ### 💼 Experience & Achievements
-- 🔬 **SURGE Research Intern @ IIT Kanpur (May 2026 - Present):** Designed a novel zero-shot denoising method for microscopic images targeting Gaussian and Poisson noise, outperforming state-of-the-art models on FMD datasets using PyTorch/CUDA.
+- 🔬 **SURGE Research Intern @ IIT Kanpur (May 2026 - July 2026):** Designed a novel zero-shot denoising method for microscopic images targeting Gaussian and Poisson noise, outperforming state-of-the-art models on FMD datasets using PyTorch/CUDA.
 - 👨‍🏫 **Teaching Assistant @ IIIT Vadodara (2026 - Present):** Assisting laboratory sessions and conducting tutorials for both **Design and Analysis of Algorithms** and **Data Structures**, helping over 180 students with complex debugging and complexity analysis in C/C++.
 - 🚀 **Product Innovation Intern @ InventX Accelerator (May 2025 - Jul 2025):** Designed vibration-damping hardware using signal processing and Fourier Transform analysis.
 - 🏆 **Achievements:** 
